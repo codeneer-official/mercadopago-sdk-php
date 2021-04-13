@@ -1,6 +1,6 @@
 {
-  "name": "mercadopago/dx-php",
-  "description": "Mercado Pago PHP SDK",
+  "name": "codeneer-official/mercadopago-sdk-php",
+  "description": "Forked project from Mercado Pago PHP SDK",
   "type": "library",
   "homepage": "https://github.com/mercadopago/dx-php",
   "license": "MIT",
